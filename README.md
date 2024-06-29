@@ -1,4 +1,4 @@
-# C-examples-for-beginners
+# C++-examples-for-beginners
 C++ examples I wrote from simple to medium and difficult levels
 
 There are hundreds of examples in the text file and each example is explained with comment lines.<br>
